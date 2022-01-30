@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapi", "shapi\shapi.csproj", "{5D13F00E-8307-4623-9636-859EAEB06981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D13F00E-8307-4623-9636-859EAEB06981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D13F00E-8307-4623-9636-859EAEB06981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D13F00E-8307-4623-9636-859EAEB06981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D13F00E-8307-4623-9636-859EAEB06981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A06A1420-7342-451A-B0DE-FB4CC9479157}
+	EndGlobalSection
+EndGlobal

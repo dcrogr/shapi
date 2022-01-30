@@ -34,6 +34,7 @@ namespace shapi.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+
         }
     }
 }

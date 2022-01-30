@@ -36,8 +36,6 @@ namespace shapi.Controllers
             .ToArray();
 
 
-
-
         }
     }
 }

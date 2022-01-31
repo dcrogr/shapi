@@ -14,5 +14,7 @@ namespace shapi
         public string IsAlive { get; set; } = "Çok Şükür!!";
         public string NAme { get; set; } = "Hkn";
 
+
+
     }
 }

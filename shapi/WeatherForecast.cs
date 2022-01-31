@@ -16,7 +16,7 @@ namespace shapi
 
 
 
-
+        public int MyProperty { get; set; } = 1;
 
 
     }

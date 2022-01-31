@@ -12,7 +12,7 @@ namespace shapi
 
         public string Summary { get; set; }
         public string IsAlive { get; set; } = "Çok Şükür!!";
-        public string NAme { get; set; } = "Hkns";
+        public string NAme { get; set; } = "Hknsa";
 
     }
 }

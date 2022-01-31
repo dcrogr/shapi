@@ -14,11 +14,5 @@ namespace shapi
         public string IsAlive { get; set; } = "Çok Şükür!!";
         public string NAme { get; set; } = "Hkns";
 
-
-
-        public int MyProperty { get; set; } = 1;
-        public int MyProperty2 { get; set; } = 1;
-
-
     }
 }
